@@ -3006,5 +3006,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-43ddf4da-9c4f-4eaf-a390-c8c92b289358 (7).mp4",
+        "metadata": {
+            "title": "Photography Tips for Capturing Quiet Moments",
+            "description": "Fashion is a quiet kind of self-expression. These minimalist-inspired looks are refined, elegant, and easy to wear every day. Save this for your next outfit plan! \ud83e\udd0d #fashion #style #minimalist #outfitinspo #solenessahartley",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
